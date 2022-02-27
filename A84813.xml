@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Fairfax letter to both Houses of Parliament; more exactly and fully relating the storming and taking of Dartmouth, with the castles, forts, officers in chief, and souldiers therein: sent by Mr. Peters. Together with a list of the names of the several commanders, officers and souldiers taken in the said town, castle and forts. Ordered by the Lords and Commons assembled in Parliament, that this letter and list be forthwith printed and published: Joh: Brown, Cleric. Parliamentorum. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84813</idno>
+            <idno type="STC">Wing F191</idno>
+            <idno type="STC">Thomason E317_17</idno>
+            <idno type="STC">ESTC R200546</idno>
+            <idno type="EEBO-CITATION">99861263</idno>
+            <idno type="PROQUEST">99861263</idno>
+            <idno type="VID">158991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158991)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E317[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Fairfax letter to both Houses of Parliament; more exactly and fully relating the storming and taking of Dartmouth, with the castles, forts, officers in chief, and souldiers therein: sent by Mr. Peters. Together with a list of the names of the several commanders, officers and souldiers taken in the said town, castle and forts. Ordered by the Lords and Commons assembled in Parliament, that this letter and list be forthwith printed and published: Joh: Brown, Cleric. Parliamentorum. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright, at the Kings-Head in the Old-Baily,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>Ian 24. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Dartmouth (Devon, England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158991:1" rendition="simple:additions"/>
+            <p>Sir <hi>Thomas Fairfax</hi> LETTER TO Both Houſes of Parliament; More exactly and fully relating the Storm<g ref="char:EOLhyphen"/>ing and Taking of <hi>DARTMO<g ref="char:V">Ʋ</g>TH,</hi> with the Caſtle, Forts, Officers in chief, and Souldiers therein: Sent by Mr. <hi>Peters.</hi>
+            </p>
+            <p>Together with a LIST of the Name; of the ſe<g ref="char:EOLhyphen"/>veral Commanders, Officers and Souldiers ta<g ref="char:EOLhyphen"/>ken in the ſaid Town, Caſtle and Forts.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords and Commons aſſembled in Parliament, That this <hi>Letter</hi> and <hi>Liſt</hi> be forth<g ref="char:EOLhyphen"/>with printed and publiſhed:</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Joh: Brown, Cleric. Parliamentorum.</item>
+                                 <item>H: Elſynge, Cler. Parl. D. Com.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London</hi> for <hi>John Wright,</hi> at the Kings-Head in the Old-Baily, <hi>Ian.</hi> 24. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:158991:2"/>
+            <pb n="3" facs="tcp:158991:2"/>
+            <head>For the Right Honorable the Speaker of the Houſe of Peers <hi>pro Tempore.</hi>
+            </head>
+            <opener>
+               <salute>My LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter my coming to <hi>Totneſs,</hi> the Enemy riſing in great diſorder from their Siege at <hi>Plymouth,</hi> leaving their Guns and ſome Ammunition behind them; I conſidered with thoſe about me of Attempting upon <hi>Dartmouth;</hi> and it being concluded affirmatively, I cauſed two Regi<g ref="char:EOLhyphen"/>ments of Foot to march to <hi>Ditſam,</hi> and two to <hi>Stoak, Flemming,</hi> being on the Weſt ſide of <hi>Dart</hi> River. I having Summoned the place before, reſolved upon Sunday night to Attempt it by Storm, which was agreed to be done in three places: The firſt Poſt was on the Weſt Gate by Colonel <hi>Hamond;</hi> on the North end of the Town by Lieut: Col: <hi>Pride;</hi> and on Tunſtall Church and Works by Col: <hi>Forteſcue.</hi> The time reſolved on, was in the Evening; our men fell on with great Reſolution (to whom Colonel
+<pb n="4" facs="tcp:158991:3"/>
+               <hi>Lamberts</hi> Regiment was a Reſerve, and to Alarm the Enemy elſewhere. Colonel <hi>Hamond</hi> entring the Weſt Gate, where four Guns were planted, and two upon the Mill-Pool upon his Flank; The Enemy firing his great Guns but once, his men that had the Forlorn-Hope did very gallantly (as indeed they did all) and went freely on, and beat off the Enemy, and poſſeſſed one Fort after another; <hi>viz.</hi> Mount Flag<g ref="char:EOLhyphen"/>gon, the Weſt Gate, Paradice Fort, and beat off the main Guard; where were taken four Lieutenant Colo<g ref="char:EOLhyphen"/>nels: and ſo poſſeſſed the Town from the Weſt Gate to little <hi>Dartmouth.</hi> In the Interim, Lieutenant Co<g ref="char:EOLhyphen"/>lonel <hi>Pride</hi> attempted the North part of the Town, called <hi>Harneſs,</hi> where beating off the Enemy he entred it, and took about Eighty Priſoners in it, and by it poſſeſſed all the North part of the Town unto the Draw-bridge, which divided the North part from the reſt of the Town; where Colonel <hi>Hamonds</hi> men and his met Colonel <hi>Forteſcue</hi> with his men, at<g ref="char:EOLhyphen"/>tempted Tunſtall Church, which was very well man'd with above One hundred men, and having in it ten Guns: His men, after ſome Diſpute, with good Reſolution entred the place and poſſeſſed it, ſo that by this time the Enemy was beaten out of all, except the great Fort in the Eaſt ſide of the River, called Kingſworth Fort, and the Caſtle with the Fort which lay over the Caſtle at the mouth of the Harbor, cal<g ref="char:EOLhyphen"/>led Gallants Bower; to which laſt the Governour with the Earl of <hi>Newport,</hi> and as many as eſcaped us fled. After they were forced from their ſtrengths out of the Town, the Governor coming back from the Caſtle to ſee in what poſture the Town was, had a
+<pb n="5" facs="tcp:158991:3"/>remarkable ſhot; as he was in the Boat, one ſitting by him, a Musket ſhot was made at the Boat, which pierced the Boat, and through both the thighs of one that was next unto him, and about three inches into his own thigh, upon which he retreated to the Caſtle. Our Dragoons, with two Companies of our Fire<g ref="char:EOLhyphen"/>locks, and ſome Seamen, were Ordered only to A<g ref="char:EOLhyphen"/>larm Kingſworth Fort, wherein was Sir <hi>Henry Cary</hi> with his Regiment, having in it twelve Guns, and twelve Barrels of Powder, and convenient propor<g ref="char:EOLhyphen"/>tion of Ammunition. This was a very ſtrong Fort, with about four good Bulwarks, ſtrong enough to have made a troubleſome reſiſtance; but the Enemy came willingly to terms; and to ſave time, I willingly condeſcended to let Sir <hi>Henry Cary</hi> march away with the reſt, leaving the Arms, Ordnance, Ammunition, with all Proviſions in the Fort to me, and all engaging themſelves never to take up Arms more againſt the Parliament, which was accordingly performed. Next morning, being thus Maſter of all but the Caſtle, and Gallants Bower, I Summoned that, the Governor was willing to liſten unto me, but I held him to thoſe terms upon which after ſome diſpute he yielded, which was, to deliver himſelf, and all Officers and Souldiers upon Quarter: He ſent me out Colonel <hi>Seamor</hi> and Mr. <hi>Denham</hi> for Hoſtages, with whom came out the Earl of <hi>Newport,</hi> and all was this day performed ac<g ref="char:EOLhyphen"/>cordingly. In this Fort and Caſtle were Eleven Guns, with proportion of Ammunition and Proviſions. We have taken in the Harbor two men of War, one belonging to the Governor of <hi>Barnſtable,</hi> with twelve Guns, Burden Two hundred Tuns; the other be<g ref="char:EOLhyphen"/>longing
+<pb n="6" facs="tcp:158991:4"/>to <hi>Newcaſtle,</hi> formerly Captain <hi>Johnſons,</hi> of ten Guns; In the Town, One hundred and three pieces of Ordnance, and about Six hundred Pri<g ref="char:EOLhyphen"/>ſoners, and One hundred Horſe, with good propor<g ref="char:EOLhyphen"/>tion of Arms and Ammunition, an Exact particular whereof I am not able to give Your Lordſhip at pre<g ref="char:EOLhyphen"/>ſent an account thereof; There being many of the Inhabitants of this Town Souldiers in <hi>Plymouth,</hi> and ſome Officers. And underſtanding that that Town hath Two thouſand five hundred in Garriſon, beſides Townſmen, I have ſent thither for Five hundred Foot for this place, who quickly will increaſe to more; and to this I deſire Your Approbation; for having found more work to do, I held it not fit to weaken my Ar<g ref="char:EOLhyphen"/>my, eſpecially conſidering the Recruits deſigned by You, I doubt will be too long before they come. I have given Your Lordſhip a brief Accompt of this Service, which I deſire may be accounted a ſweet mercy of God in a very fitting ſeaſon, and only aſcribed to him who truly did direct and act it, and made all the preparation to it, both in the ordering our hearts, and giving health to the Army, which la<g ref="char:EOLhyphen"/>boured two moneths ago extremely of ſickneſſe, but is now in good diſpoſition generally to health. I can ſay, I finde it to be in the hearts of all here, in all Integrity to ſerve You: And that it is ſo, is ſtill the mercy of God; for ſurely the ſucceſſe of Your Affairs, only Depends upon the ordering of a graci<g ref="char:EOLhyphen"/>ous Providence, which is no leſſe viſible in Your Councels (which we congratulate) then amongſt us; that being the common Root and Spring of all, and which can and will carry You through the
+<pb n="7" facs="tcp:158991:4"/>greateſt Difficulties, and us in ſerving You, un<g ref="char:EOLhyphen"/>till God hath finiſhed his own work: Wherein to profeſſe the Obligation and readineſſe of my ſelf and the Army, by the ſame good hand of God is all the undertaking of</p>
+            <closer>
+               <dateline>Dartmouth, <date>Jan. 20. 1645.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble Servant, Tho. Fairfax.</signed>
+            </closer>
+            <postscript>
+               <p>FOr a further Relation of particulars, I re<g ref="char:EOLhyphen"/>fer you to this Bearer Mr. <hi>Peters,</hi> who was preſent upon the place, and did much encourage the Souldiers to do their Duties.</p>
+            </postscript>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="8" facs="tcp:158991:5"/>
+            <head>Priſoners taken at <hi>Dartmouth, Ianuary</hi> 19. 1645.</head>
+            <list>
+               <item>SIr <hi>Hugh Pollard</hi> Governour.</item>
+               <item>Earl of <hi>Newport.</hi>
+               </item>
+               <item>Collonel <hi>Seamor.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>Leiutenant Collonels.</head>
+                     <item>
+                        <hi>Codrington.</hi>
+                     </item>
+                     <item>
+                        <hi>Blunt.</hi>
+                     </item>
+                     <item>
+                        <hi>Wadland.</hi>
+                     </item>
+                     <item>
+                        <hi>Searle.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Majors.</head>
+                     <item>
+                        <hi>Fulford.</hi>
+                     </item>
+                     <item>
+                        <hi>Hooper.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Captaines.</head>
+                     <item>
+                        <hi>Pollard.</hi>
+                     </item>
+                     <item>
+                        <hi>Woodly.</hi>
+                     </item>
+                     <item>
+                        <hi>Sampſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Duke.</hi>
+                     </item>
+                     <item>
+                        <hi>Powell.</hi>
+                     </item>
+                     <item>
+                        <hi>Colefin.</hi>
+                     </item>
+                     <item>
+                        <hi>Ford.</hi>
+                     </item>
+                     <item>
+                        <hi>Blewet.</hi>
+                     </item>
+                     <item>
+                        <hi>Start.</hi>
+                     </item>
+                     <item>
+                        <hi>Downing.</hi>
+                     </item>
+                     <item>
+                        <hi>Horton.</hi>
+                     </item>
+                     <item>
+                        <hi>Conway.</hi>
+                     </item>
+                     <item>
+                        <hi>Raynolds.</hi>
+                     </item>
+                     <item>
+                        <hi>Lee.</hi>
+                     </item>
+                     <item>
+                        <hi>Phillips,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Lieutenants.</head>
+                     <item>
+                        <hi>King.</hi>
+                     </item>
+                     <item>
+                        <hi>Pollard.</hi>
+                     </item>
+                     <item>
+                        <hi>Hunt.</hi>
+                     </item>
+                     <item>
+                        <hi>Duncalfe.</hi>
+                     </item>
+                     <item>
+                        <hi>Kigan.</hi>
+                     </item>
+                     <item>
+                        <hi>Eſton.</hi>
+                     </item>
+                     <item>
+                        <hi>Bee.</hi>
+                     </item>
+                     <item>
+                        <hi>Labull.</hi>
+                     </item>
+                     <item>
+                        <hi>Slanner.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohnſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Drew.</hi>
+                     </item>
+                     <item>
+                        <hi>Williams.</hi>
+                     </item>
+                     <item>
+                        <hi>Hinly.</hi>
+                     </item>
+                     <item>
+                        <hi>Searle.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Enſignes.</head>
+                     <item>
+                        <hi>Garret.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard.</hi>
+                     </item>
+                     <item>
+                        <hi>Vpton.</hi>
+                     </item>
+                     <item>
+                        <hi>Read.</hi>
+                     </item>
+                     <item>
+                        <hi>Dode.</hi>
+                     </item>
+                     <item>
+                        <hi>Waggin.</hi>
+                     </item>
+                     <item>
+                        <hi>Vichering.</hi>
+                     </item>
+                     <item>
+                        <hi>Fitch-Iames.</hi>
+                     </item>
+                     <item>
+                        <hi>Coome.</hi>
+                     </item>
+                     <item>Cornet <hi>Lamot.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>Many Country Gentlemen, Miniſters, and inferiour Officers. All the Common Souldiers being betwixt eight hundred and a thouſand are ſet at liberty to repaire to their dwellings.</p>
+            <p>Ordnance about a hundred and twenty mounted, two men of War in the Harbour.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
